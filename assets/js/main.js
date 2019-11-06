@@ -99,7 +99,7 @@
 			usePopupCaption: true,
 			popupLoaderText: '',
 			windowMargin: 10,
-			usePopupNav: true
+			usePopupNav: true,
 		});
 
 })(jQuery);
